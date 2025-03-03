@@ -23,10 +23,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=markwlsn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐍 GitHub Snake Game
-![GitHub Snake Animation](https://raw.githubusercontent.com/markwlsn/output/main/github-snake.svg)
-![GitHub Snake Dark](https://raw.githubusercontent.com/markwlsn/output/main/github-snake-dark.svg#gh-dark-mode-only)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=markwlsn&icon=0&color=0)](https://visitcount.itsvg.in)
 
