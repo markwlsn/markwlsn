@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mark Wilson Geronilla<br>🔭 I’m currently working as an intern<br>📚 I'm learning programming languages to expand my skills<br>⚡ In my free time, I jog and catch up on sleep 😴🏃
+👋 Hi, I'm Mark Wilson Geronilla<br>🔭 I’m currently working as an ICTE Faculty Member<br>📚 I code for fun ! <br>⚡ In my free time, I jog and catch up on sleep 😴🏃
 
 
 ## 🌐 Socials:
