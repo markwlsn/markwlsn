@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mark👋</h1>
+<h1 align="center">Hi, I'm Mark Wilson Geronilla 👋</h1>
 <p align="center">Computer Engineering graduate | Junior Developer & IT Support | Instructor</p>
 
 <p align="center">
@@ -72,5 +72,13 @@ Configured and managed a simulated enterprise network in Cisco Packet Tracer, in
 - 🛠️ Building projects with Java, C#, and Python
 - 🌐 Sharpening networking & systems administration skills
 - 📫 Reach me at **markw.geronilla@gmail.com**
+
+### Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/markwlsn/markwlsn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/markwlsn/markwlsn/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/markwlsn/markwlsn/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center"><i>Thanks for stopping by!</i></p>
