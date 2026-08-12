@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mark Wilson Geronilla 👋</h1>
-<p align="center">Computer Engineering graduate | Junior Developer & IT Support | Instructor</p>
+<p align="center">Computer Engineering graduate | Junior Developer | IT Instructor | MIS Associate</p>
 
 <p align="center">
   <a href="mailto:markw.geronilla@gmail.com">
