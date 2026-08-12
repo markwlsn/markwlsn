@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mark Wilson Geronilla 👋</h1>
+<h1 align="center">Hi, I'm Mark👋</h1>
 <p align="center">Computer Engineering graduate | Junior Developer & IT Support | Instructor</p>
 
 <p align="center">
