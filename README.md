@@ -68,7 +68,7 @@ Configured and managed a simulated enterprise network in Cisco Packet Tracer, in
 
 ### Currently
 
-- 🏫 Teaching OOP, Data Structures & Application Development at STI College Global City
+- 🏫 Former Instructor (OOP, C#, EDP, Data Structures, App Development) @ STI College Global City
 - 🛠️ Building projects with Java, C#, and Python
 - 🌐 Sharpening networking & systems administration skills
 - 📫 Reach me at **markw.geronilla@gmail.com**
